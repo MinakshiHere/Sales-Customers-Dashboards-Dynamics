@@ -8,6 +8,8 @@ This project features two Tableau dashboards designed to empower stakeholders—
 
 ![SalesDashboard](https://github.com/user-attachments/assets/1f1d8f29-ba51-420b-ac4d-e633a1ec30ee)
 
+**Sales Dashboard | FilterView**
+
 ![SalesDashboard FilterView](https://github.com/user-attachments/assets/05b1fe27-0222-4c5b-8d45-69e0d202e2d4)
 
 **Purpose** 
