@@ -6,6 +6,12 @@ This project features two Tableau dashboards designed to empower stakeholders—
 
 **Sales Dashboard | Overview**
 
+git add D:\Everything Tableau\Sales Dashboard Materials\Dashboard Images\SalesDashboard.jpeg
+git commit -m "Added Sales Dashboard image"
+git push origin main
+
+![Sales Dashboard](D:\Everything Tableau\Sales Dashboard Materials\Dashboard Images\SalesDashboard.jpeg)
+
 **Purpose** 
 
 To provide an overview of sales metrics and trends, enabling analysis of year-over-year performance and identification of key sales insights.
