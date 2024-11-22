@@ -6,9 +6,12 @@ This project features two Tableau dashboards designed to empower stakeholders—
 
 **Sales Dashboard | Overview**
 
-**Purpose:** To provide an overview of sales metrics and trends, enabling analysis of year-over-year performance and identification of key sales insights.
+**Purpose** 
+
+To provide an overview of sales metrics and trends, enabling analysis of year-over-year performance and identification of key sales insights.
 
 **Key Features** 
+
 KPI Overview: Year-over-year comparison of total sales, profits, and quantity.
 Sales Trends: Monthly trends for KPIs, highlighting peak and low-performing months.
 Product Subcategory Analysis: Performance comparison across subcategories, including sales vs. profit.
@@ -17,7 +20,9 @@ Weekly Trends: Weekly sales and profit trends with average benchmarks, highlight
 
 **Customer Dashboard | Overview**
 
-**Purpose:** To analyze customer trends and behaviors, providing insights for marketing strategies and enhancing customer satisfaction.
+**Purpose**
+
+To analyze customer trends and behaviors, providing insights for marketing strategies and enhancing customer satisfaction.
 
 **Key Features**
 
